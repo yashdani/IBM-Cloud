@@ -1,0 +1,4 @@
+applications:
+- name: 1650-Quiz-1
+  random-route: true
+  memory: 64M
